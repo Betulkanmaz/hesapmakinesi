@@ -1,0 +1,11 @@
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\betul\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
